@@ -8,4 +8,17 @@ This repository contains the implementations of popular Machine Learning Algorit
 - K Nearest Neighbour Classifier (knn.py)
 - Support Vector Machine Classifier (svm.py)
 
-## Perceptron Learning Algorithm
+## Datasets Used
+
+- Breast_cancer_data.csv
+- linearly-separable-dataset.csv
+
+### Perceptron Learning Algorithm
+
+### Adaptive Boosting Algorithm
+
+### K-Means Clustering
+
+### K Nearest Neighbour Classifier
+
+### Support Vector Machine Classifier
