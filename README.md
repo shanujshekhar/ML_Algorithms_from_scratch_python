@@ -42,6 +42,19 @@ This repository contains the implementations of popular Machine Learning Algorit
 
 #### Observations
 - My k-means algorithm converges when each data point in the dataset has the same cluster allocation for consecutive 2 epochs. I have even plotted a graph of difference in clusters vs epochs. This graph shows the number of data points which have different clusters in two consecutive epochs.
+
+***Euclidean***
+
+<img src="./euclidiean.png" width="300">
+
+***Manhattan***
+
+<img src="./manhattan.png" width="300">
+
+***Cosine***
+
+<img src="./cosine.png" width="300">
+
 - I observed that when k=2 i.e. when we have to divide the dataset into 2 clusters, each cluster can clearly divide the dataset into 2 clusters based on the diagnosis label. This is shown in the table below. I have calculated the percentage of data points having 0 as diagnosis in both the clusters and similarly, diagnosis of 1 in both the clusters.
 
 ### K Nearest Neighbour Classifier
@@ -63,3 +76,4 @@ Required arguments:
 
 
 ### Support Vector Machine Classifier
+
